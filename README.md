@@ -13,7 +13,7 @@
 
 **Coding Skills**
 - Networking
-- Data Protection (Kind of)
+- Encryption
 - Object Oriented Programming
 - Procedural Generation (One of my favorite)
 - Databases
