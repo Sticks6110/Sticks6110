@@ -4,7 +4,6 @@
 - C
 - C++
 - C#
-- Java
 - JS
 - Lua
 - Powershell
