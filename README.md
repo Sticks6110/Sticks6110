@@ -1,4 +1,4 @@
-** Coding Languages **
+**Coding Languages**
 - Bash
 - Batch
 - C
