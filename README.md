@@ -13,7 +13,7 @@
 
 **Skills**
 - Networking
-- Data Protection
+- Data Protection (Kind of)
 - Object Oriented Programming
 - Procedural Generation (One of my favorite)
 - Databases
