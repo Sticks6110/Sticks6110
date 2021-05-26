@@ -11,7 +11,7 @@
 - Ruby
 - SQL
 
-**Skills**
+**Coding Skills**
 - Networking
 - Data Protection (Kind of)
 - Object Oriented Programming
