@@ -17,6 +17,6 @@
 - Object Oriented Programming
 - Procedural Generation (One of my favorite)
 - Databases
-- Game Developing
-
+- Game Developing  
+  
 ![Anurag's GitHub stats](https://stats-khaki.vercel.app/api?username=BeastBomber23&show_icons=true&theme=radical)
