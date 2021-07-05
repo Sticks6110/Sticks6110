@@ -1,6 +1,6 @@
 **Coding Languages**
 - Bash
-- Batch
+- Batch stats-khaki.vercel.app
 - C
 - C++
 - C#
@@ -18,3 +18,5 @@
 - Procedural Generation (One of my favorite)
 - Databases
 - Game Developing
+
+![Anurag's GitHub stats](https://stats-khaki.vercel.app/api?username=BeastBomber23a&show_icons=true&theme=radical)
