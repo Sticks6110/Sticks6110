@@ -19,4 +19,4 @@
 - Databases
 - Game Developing
 
-![Anurag's GitHub stats](https://stats-khaki.vercel.app/api?username=BeastBomber23a&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://stats-khaki.vercel.app/api?username=BeastBomber23&show_icons=true&theme=radical)
