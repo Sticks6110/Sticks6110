@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm BeastBomber23</h1>
 <h3 align="center">I like to mod games and make games. I also do other stuff than just games.</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=beastbomber23&label=Profile%20views&color=0e75b6&style=flat" alt="beastbomber23" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=beastbomber23&label=Profile%20views&color=0e75b6&style=flat" alt="beastbomber23" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=beastbomber23" alt="beastbomber23" /></a> </p>
 
